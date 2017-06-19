@@ -5,7 +5,7 @@ Welcome to the BOND Coding Challenge.
 
 Please set aside **no more than two hours** to complete this exercise. Get as far as you can, but you’re not required to complete the task! The purpose of this exercise is to get a feel for your approach to problem solving, code style, and comfort with different aspects of developing for the web.
 
-If you have any questions or get stuck on something (including setup), don't hesitate to send us an email at digital@wearebond.com. Good luck!
+If you have any questions or get stuck on something (including setup), don't hesitate to send us an email at matt@wearebond.com. Good luck!
 
 ![Animated Mock](ref/mock.gif)
 
@@ -38,7 +38,7 @@ If you find yourself with time to spare, feel free to improve functionality as y
 
 ## Submit Your App
 
-Zip project directory and send it our way: [digital@wearebond.com](mailto:digital@wearebond.com)
+Zip project directory and send it our way: [matt@wearebond.com](mailto:matt@wearebond.com)
 
 Assume we will install and run any dependency/build process necessary, so make sure to include relevant files.
 
